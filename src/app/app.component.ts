@@ -7,5 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   //SOURCE - https://www.javaguides.net/2020/11/how-to-deploy-angular-application-to-heroku.html, https://www.youtube.com/watch?v=HWBSSC7Vbg0
-  title = 'fish-shop';
+  title = 'fish-shop-demo';
 }
